@@ -43,4 +43,4 @@ $ echo $CURRENTLY
 ```bash
 $ cat links.txt
 ```
-[`📧 Email`](mailto:dev.abhishekg1@gmail.com) · [`💼 LinkedIn`](https://linkedin.com/in/your-handle) · [`⚡ Codeforces`](https://codeforces.com/profile/your-handle) · [`🐙 GitHub`](https://github.com/capricorn-32)
+[`📧 Email`](mailto:dev.abhishekg1@gmail.com) · [`💼 LinkedIn`](https://linkedin.com/in/capricorn32) · [`⚡ Codeforces`](https://codeforces.com/profile/seniorliketocde) · [`🐙 GitHub`](https://github.com/capricorn-32)
