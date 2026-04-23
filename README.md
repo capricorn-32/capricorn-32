@@ -1,110 +1,53 @@
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  abhishek@iiitm:~$ whoami                                        ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-# > Abhishek Gupta `[CF Expert · 1621]`
-
 ```bash
-$ cat about.txt
+$ whoami
 ```
-> M.Tech @ ABV-IIITM Gwalior · Autonomous Systems & Machine Intelligence  
-> Backend Engineer obsessed with **Go**, distributed systems & high-throughput infrastructure  
-> Building things that scale. Breaking things that don't.  
-> KAVACH 2023 Grand Finalist · 1000+ DSA problems solved
+### Abhishek Gupta — Backend Engineer · Go · Distributed Systems
+
+> I write Go until things stop being slow.  
+> Then I write more Go.
 
 ---
 
 ```bash
-$ ls -la skills/
+$ uname -a
 ```
-
-```
-drwxr-xr-x  languages/      → Go  C++  Python
-drwxr-xr-x  databases/      → PostgreSQL  MongoDB  Redis  MySQL  ElasticSearch
-drwxr-xr-x  backend/        → Microservices  gRPC  REST  Event-driven  Concurrency
-drwxr-xr-x  infra/          → Docker  Kubernetes  AWS  GitHub Actions  Linux
-drwxr-xr-x  cs-core/        → DSA  Distributed Systems  OS  Networking
-```
+`M.Tech @ IIITM Gwalior` · `CF Expert 1621` · `KAVACH 2023 Grand Finalist`  
+`1000+ problems solved` · `CNCF curious` · `OSS enthusiast`
 
 ---
 
 ```bash
-$ git log --oneline --graph projects/
+$ top -o cpu
 ```
-
-```
-* a3f1c2e  url-shortener     → Go · Redis · PostgreSQL  |  240ms → 1ms · 5000+ RPS
-* 8b2d7f1  codeweave         → Go · WebSockets · Docker  |  real-time collab coding
-* 5e9c3a0  pastebin-service  → Go · MongoDB · CI/CD  |  TTL expiry · horizontal scaling
-* 2f4b8d3  trackpatrol       → Node · WebSockets · Maps API  |  real-time police dispatch
-```
-
-> 🔗 [`url-shortener`](https://github.com/capricorn-32/url-shortener) · [`codeweave`](https://github.com/capricorn-32/codeweave) · [`pastebin`](https://github.com/capricorn-32/pastebin)
+`Go` `PostgreSQL` `Redis` `Kubernetes` `Docker` `AWS` `gRPC` `WebSockets`
 
 ---
 
 ```bash
-$ cat experience.log | grep -i highlights
+$ git log --oneline
 ```
-
-```
-[Workik]  SWE Intern (Go · AWS · Docker)
-          ├── Built analytics pipelines on AWS OpenSearch → -40% query latency
-          ├── Shipped performance-critical microservices in Go
-          └── Automated Slack + GitHub workflows → faster PR cycles
-```
+- `url-shortener` — 240ms → **1ms** with Redis. 5000+ RPS. Yes, really.
+- `codeweave` — real-time collab coding. WebSockets + Go.
+- `pastebin` — TTL expiry, CI/CD, stateless. Boring done right.
+- `trackpatrol` — live police dispatch. Sub-second. Won a national hackathon.
 
 ---
 
 ```bash
-$ grep -r "achievements" ./career --include="*.json"
+$ echo $CURRENTLY
 ```
-
-```json
-{
-  "codeforces": "Expert — Rating 1621",
-  "hackathon": "KAVACH 2023 Grand Finalist (Top / 900+ teams)",
-  "problems_solved": "1000+ across CF · LeetCode · HackerRank",
-  "contests": ["1st CSI Codeshell", "2nd Ghaziabad Games of Code", "2nd BIT Coder"]
-}
-```
+> Looking to contribute to **cloud-native OSS** and join teams building infra that matters.  
+> If your stack has a `go.mod` and a `k8s/` folder — we should talk.
 
 ---
 
 ```bash
-$ ping open-source --target=CNCF,Google,Meta,YC
+$ cat links.txt
 ```
-
-> I'm actively looking to contribute to **cloud-native OSS** (Kubernetes ecosystem, observability tooling, API gateways)  
-> and open to roles at **product-driven companies** that care about systems that actually scale.  
-> If you're building infra, developer tooling, or distributed systems — **let's talk.**
+[`📧 Email`](mailto:dev.abhishekg1@gmail.com) · [`💼 LinkedIn`](https://linkedin.com/in/your-handle) · [`⚡ Codeforces`](https://codeforces.com/profile/your-handle) · [`🐙 GitHub`](https://github.com/capricorn-32)
 
 ---
 
-```bash
-$ cat contact.sh && bash contact.sh
-```
+![Stats](https://github-readme-stats.vercel.app/api?username=capricorn-32&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true)
 
-```bash
-#!/bin/bash
-echo "📧  dev.abhishekg1@gmail.com"
-echo "💼  linkedin.com/in/capricorn32"
-echo "⚡  codeforces.com/profile/seniorliketocode"
-echo "📍  Gwalior, India"
-```
-
----
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  abhishek@iiitm:~$ _                                             ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=capricorn-32&color=00ff41&style=flat-square&label=PROFILE+VIEWS" />
-</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=capricorn-32&color=00ff41&style=flat-square&label=PROFILE+VIEWS"/></p>
